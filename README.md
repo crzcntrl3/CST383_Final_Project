@@ -6,6 +6,8 @@ February 10, 2021 from basketball-reference.com
 
 [2018-2019 Season](https://www.basketball-reference.com/leagues/NBA_2019.html)
 
+[2018-2019 Per Game Stats](https://www.basketball-reference.com/leagues/NBA_2019_games.html)
+
 Video: 
 
 [CST 383- Final Project Video](https://youtu.be/yWvCwfWzItg)
