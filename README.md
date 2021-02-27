@@ -8,7 +8,7 @@ February 10, 2021 from basketball-reference.com
 
 Video: 
 
-[CST 383- Final Project Video](link)
+[CST 383- Final Project Video](https://youtu.be/yWvCwfWzItg)
 
 
 ## Introduction
