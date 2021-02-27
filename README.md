@@ -1,6 +1,4 @@
-# CST383_Final_Project
-
-# NBA Win Prediction
+# CST383_Final_Project - NBA Win Prediction
 
 Source/Results:
 
